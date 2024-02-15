@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-nassim.github.io/static/css/main.f1b3ff86.css",
-    "main.js": "/portfolio-nassim.github.io/static/js/main.0741be12.js",
+    "main.js": "/portfolio-nassim.github.io/static/js/main.a8b04f22.js",
     "static/js/592.7881a785.chunk.js": "/portfolio-nassim.github.io/static/js/592.7881a785.chunk.js",
     "static/media/color-sharp2.png": "/portfolio-nassim.github.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/CentraNo2-Bold.ttf": "/portfolio-nassim.github.io/static/media/CentraNo2-Bold.48e33a55a4142e6e115a.ttf",
@@ -20,11 +20,11 @@
     "index.html": "/portfolio-nassim.github.io/index.html",
     "static/media/nav-icon1.svg": "/portfolio-nassim.github.io/static/media/nav-icon1.001fca473d7266ab31dab6cb4ecb472a.svg",
     "main.f1b3ff86.css.map": "/portfolio-nassim.github.io/static/css/main.f1b3ff86.css.map",
-    "main.0741be12.js.map": "/portfolio-nassim.github.io/static/js/main.0741be12.js.map",
+    "main.a8b04f22.js.map": "/portfolio-nassim.github.io/static/js/main.a8b04f22.js.map",
     "592.7881a785.chunk.js.map": "/portfolio-nassim.github.io/static/js/592.7881a785.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1b3ff86.css",
-    "static/js/main.0741be12.js"
+    "static/js/main.a8b04f22.js"
   ]
 }
