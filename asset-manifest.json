@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62637553.css",
+    "main.js": "/static/js/main.e4f37d36.js",
+    "static/js/592.7881a785.chunk.js": "/static/js/592.7881a785.chunk.js",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.48e33a55a4142e6e115a.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.b86cead53490db910934.ttf",
+    "static/media/fount.jpg": "/static/media/fount.dda10d31b5cb5a13192b.jpg",
+    "static/media/fontcyber.png": "/static/media/fontcyber.4f762514eb02d2901050.png",
+    "static/media/github.png": "/static/media/github.19a9952792d76fcd9f9e.png",
+    "static/media/site-internet.png": "/static/media/site-internet.71ab41ded3ca837977e5.png",
+    "static/media/social.png": "/static/media/social.d4194ff1898e54548dbe.png",
+    "static/media/cv.png": "/static/media/cv.e75f76ae36d6dddb567a.png",
+    "static/media/logo2.png": "/static/media/logo2.2804d94dea0ba535b2cb.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.001fca473d7266ab31dab6cb4ecb472a.svg",
+    "main.62637553.css.map": "/static/css/main.62637553.css.map",
+    "main.e4f37d36.js.map": "/static/js/main.e4f37d36.js.map",
+    "592.7881a785.chunk.js.map": "/static/js/592.7881a785.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62637553.css",
+    "static/js/main.e4f37d36.js"
+  ]
+}
