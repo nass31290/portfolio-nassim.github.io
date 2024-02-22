@@ -3,6 +3,7 @@ import { Navbar, Container, Nav} from "react-bootstrap"
 import logo from '../assets/img/logo2.png';
 import navIcon1 from '../assets/img/social.png';
 import cv from '../assets/img/cv.png';
+import monCV from '../assets/files/CV_akonaf_nassim.pdf'
 
 export const NavBar = () => {
 
@@ -50,7 +51,7 @@ export const NavBar = () => {
                 </Nav>
                 <span className="navbar-text">
                     <div className="social-icon">
-                        <a href="../assets/files/CV_akonaf_nassim.pdf" download="CV_akonaf_nassim.pdf"><img src={cv} alt="" /></a>
+                        <a href={monCV} download="CV_akonaf_nassim.pdf"><img src={cv} alt="" /></a>
                         <a href="https://www.linkedin.com/in/nassim-akonaf-483225211/"><img src={navIcon1} alt="" /></a>
                     </div>
                 </span>

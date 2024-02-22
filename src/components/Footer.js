@@ -12,13 +12,13 @@ export const Footer = () => {
       <h3>Master MIAGE en alternance</h3>
       <p className="timeline-date">2022 - 2024</p>
       <p>Université Paul Sabatier, Toulouse, France</p>
-      <p>Gestion de projet, Bases de données avancées, Infrastructure, Analyse de données, Maths / IA</p>
+      <p>Cybersécurité, Développement web, Gestion de projet, Bases de données avancées, Système d'Information, Analyse de données, Maths, IA, BabylonJS</p>
     </li>
     <li>
       <h3>Licence MIAGE en alternance</h3>
-      <p className="timeline-date">2021 - 2022</p>
+      <p className="timeline-date">2021</p>
       <p>Université Paul Sabatier, Toulouse, France</p>
-      <p>Développement Web, Maths, Gestion de projet, Bases de données</p>
+      <p>Développement Web, transformation Digitale, Maths, Gestion de projet, Bases de données, AMOA</p>
     </li>
   </ol>
 </footer>
